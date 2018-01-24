@@ -4,7 +4,6 @@
   [![IPLD hex logo](https://ipld.io/img/ipld-logo.png)](https://ipld.io)
 </div>
 
-<div align="center">
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://protocol.ai)
 [![](https://img.shields.io/badge/project-ipld-blue.svg?style=flat-square)](http://ipld.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
@@ -20,7 +19,6 @@
 [![](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ![](https://img.shields.io/badge/npm-%3E%3D3.0.0-orange.svg?style=flat-square)
 ![](https://img.shields.io/badge/Node.js-%3E%3D6.0.0-orange.svg?style=flat-square)
-</div>
 
 > The JavaScript implementation of the IPLD, InterPlanetary Linked-Data
 
