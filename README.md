@@ -9,9 +9,9 @@
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 [![]([https://img.shields.io/badge/pm-waffle-blue.svg?style=flat-square")](https://waffle.io/ipld/js-ipld)
 
-[![https://travis-ci.org/ipld/js-ipld.svg?branch=master]()](https://travis-ci.org/ipld/js-ipld)
-[![https://circleci.com/gh/ipld/js-ipld.svg?style=svg]()]("https://circleci.com/gh/ipld/js-ipld)
-[![https://coveralls.io/repos/github/ipld/js-ipld/badge.svg?branch=master]()](https://coveralls.io/github/ipld/js-ipld?branch=master)
+[![](https://travis-ci.org/ipld/js-ipld.svg?branch=master)](https://travis-ci.org/ipld/js-ipld)
+[![](https://circleci.com/gh/ipld/js-ipld.svg?style=svg)]("https://circleci.com/gh/ipld/js-ipld)
+[![](https://coveralls.io/repos/github/ipld/js-ipld/badge.svg?branch=master)](https://coveralls.io/github/ipld/js-ipld?branch=master)
 
 
 [![](https://david-dm.org/ipld/js-ipld.svg?style=flat-square)](https://david-dm.org/ipld/js-ipld)
