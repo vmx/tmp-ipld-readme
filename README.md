@@ -1,7 +1,7 @@
 # The JavaScript implementation of the IPLD _(js-ipld)_
 
 <div align="center">
-  [![IPLD hex logo](https://ipld.io/img/ipld-logo.png)](https://ipld.io)
+  <a href="https://ipld.io"><img src="https://ipld.io/img/ipld-logo.png" alt="IPLD hex logo" /></a>
 </div>
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://protocol.ai)
